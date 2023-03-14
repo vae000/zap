@@ -14,5 +14,6 @@ func main() {
 	for i, v := range x {
 		fmt.Println(i, v)
 	}
+	fmt.Println("cs2")
 
 }
