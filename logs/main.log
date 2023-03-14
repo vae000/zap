@@ -1,0 +1,5 @@
+{"level":"info","time":"2023-01-29T16:33:46.144+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:7","msg":"hello main Info","serviceName":"Main"}
+{"level":"info","time":"2023-01-29T16:33:59.427+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:7","msg":"hello main ","serviceName":"Main"}
+{"level":"info","time":"2023-01-29T16:34:46.238+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:7","msg":"hello main ","serviceName":"Main"}
+{"level":"info","time":"2023-01-29T16:35:06.251+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:7","msg":"hello maincs","serviceName":"Main"}
+{"level":"info","time":"2023-01-29T16:45:03.035+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:9","msg":"hello maincs","serviceName":"Main"}

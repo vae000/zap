@@ -1,0 +1,14 @@
+{"level":"debug","time":"2023-01-29T16:33:46.160+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:8","msg":"Hi Gateway Im Debug","serviceName":"Gateway"}
+{"level":"info","time":"2023-01-29T16:33:46.160+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:9","msg":"Hi Gateway  Im Info","serviceName":"Gateway"}
+{"level":"debug","time":"2023-01-29T16:33:59.439+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:8","msg":"Hi Gateway Im Debug","serviceName":"Gateway"}
+{"level":"info","time":"2023-01-29T16:33:59.440+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:9","msg":"Hi Gateway  Im Info","serviceName":"Gateway"}
+{"level":"debug","time":"2023-01-29T16:34:46.252+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:8","msg":"Hi Gateway Im Debug","serviceName":"Gateway"}
+{"level":"info","time":"2023-01-29T16:34:46.252+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:9","msg":"Hi Gateway  Im Info","serviceName":"Gateway"}
+{"level":"debug","time":"2023-01-29T16:35:06.272+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:8","msg":"Hi Gateway Im Debug","serviceName":"Gateway"}
+{"level":"info","time":"2023-01-29T16:35:06.272+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:9","msg":"Hi Gateway  Im Info","serviceName":"Gateway"}
+{"level":"debug","time":"2023-01-29T16:45:03.047+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:10","msg":"Hi Gateway Im Debug","serviceName":"Gateway","cs":"string"}
+{"level":"info","time":"2023-01-29T16:45:03.047+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:11","msg":"Hi Gateway  Im Info","serviceName":"Gateway"}
+{"level":"debug","time":"2023-03-02T10:51:16.899+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:7","msg":"Hi Gateway Im Debug","serviceName":"Gateway","cs":"string"}
+{"level":"info","time":"2023-03-02T10:51:16.911+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:8","msg":"Hi Gateway  Im Info","serviceName":"Gateway"}
+{"level":"debug","time":"2023-03-02T10:51:31.144+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:7","msg":"Hi Gateway Im Debug","serviceName":"Gateway","cs":"string"}
+{"level":"info","time":"2023-03-02T10:51:31.155+0800","linenum":"D:/gin-project/zap/pack/quickStart.go:8","msg":"Hi Gateway  Im Info   ccccc","serviceName":"Gateway"}
